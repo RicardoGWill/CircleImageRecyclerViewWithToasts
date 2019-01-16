@@ -1,0 +1,2 @@
+# CircleImageRecyclerViewWithToasts
+This app uses some dependencies, including "recyclerview" and "glide", and "circleimageview".  As you might expect, this has a RecyclerView layout.  It contains images that are retrieved from the internet.  Images are turned into circles, and each image has a name (that I gave it).  When the image is clicked on, a Toast appears, which shows the name of the image.
